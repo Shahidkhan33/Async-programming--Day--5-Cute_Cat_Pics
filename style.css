@@ -1,0 +1,13 @@
+
+body {
+
+    background-image: linear-gradient(rgb(121, 14, 14),rgb(102, 41, 182));
+    height: 100vh;
+}
+
+.mainbox{
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    
+}
